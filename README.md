@@ -8,7 +8,7 @@ It works by fetching your starred repos search page (`/stars?q=...`) and extract
 
 ## Screenshot
 
-![Screenshot](https://greasyfork.s3.us-east-2.amazonaws.com/lakdzj1niatrfbfciwolmzgj1fj7)
+![Screenshot](screenshot.png)
 
 ## Install
 
